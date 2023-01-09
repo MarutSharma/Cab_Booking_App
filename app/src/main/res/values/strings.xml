@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Booking_App</string>
+    <string name="from">FROM :</string>
+    <string name="to">TO :</string>
+    <string name="uber_premium_500">Uber Premium @ 500</string>
+    <string name="uber_go_399">Uber Go @ 399</string>
+    <string name="todo" translatable="false">TODO</string>
+</resources>
